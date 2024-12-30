@@ -1,0 +1,12 @@
+
+
+SP=x.x Change setpoint to x.x
+CT=nnnn Change pump cycle time to nnnn milliseconds
+PC=n Change pump pulse cycle count to n pulses per cycle (5 is minimum!)
+
+TS=hh:mm:ss Change RTC time to hh:mm:ss
+
+SL=0 or 1  On/off of serial logging of data
+KP=x.x Change heater PID Kp value to x.x
+KI=x.x Change heater PID Ki value to x.x
+KD=x.x Change heater PID Kd value to x.x
